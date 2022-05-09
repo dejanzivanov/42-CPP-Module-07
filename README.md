@@ -1,8 +1,7 @@
 # 42-CPP-Module-07
 
-# 42-CPP-Module-06
 
-**![cpp06-mark](https://raw.githubusercontent.com/dejanzivanov/42-CPP-Module-08/main/cpp08.png)**  
+**![cpp06-mark](https://raw.githubusercontent.com/dejanzivanov/42-CPP-Module-07/main/cpp07.png)**  
 
 
 ## 📱 Connect With Me!
@@ -21,5 +20,3 @@
 ![image](07.jpg)
 ![image](08.jpg)
 ![image](09.jpg)
-![image](10.jpg)
-![image](11.jpg)
